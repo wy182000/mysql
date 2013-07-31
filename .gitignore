@@ -23,6 +23,7 @@ Makefile
 source_downloads
 
 # ignore files list
+out
 client/mysql
 client/mysql_config_editor
 client/mysql_plugin
