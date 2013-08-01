@@ -43,6 +43,7 @@ cmd-line-utils/libedit/fcns.h
 cmd-line-utils/libedit/help.c
 cmd-line-utils/libedit/help.h
 cmd-line-utils/libedit/vi.h
+cmd-line-utils/libedit/stAVFbKP
 Docs/INFO_BIN
 extra/comp_err
 extra/innochecksum
@@ -59,6 +60,7 @@ include/mysql_version.h
 include/mysqld_ername.h
 include/mysqld_error.h
 include/probes_mysql_dtrace.h
+install_manifest.txt
 libmysql/libmysql.ver
 libmysql/libmysql_exports_file.cc
 libmysql/libmysqlclient.so.18
